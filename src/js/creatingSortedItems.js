@@ -45,7 +45,7 @@ export default class CreatingSortedItems {
                         </div>
                     </div>
                     <div class="item_img">
-                        <img src="./img/item_men_1.png" alt="item_men_1">
+                        <img src="./src/img/item_men_1.png" alt="item_men_1">
                     </div>
                     <div class="item_footer">
                         <div class="item_name">T-shirt</div>
@@ -62,7 +62,7 @@ export default class CreatingSortedItems {
                         <div class="item_colors"></div>
                     </div>
                     <div class="item_img">
-                        <img src="./img/item_men_2.png" alt="item_men_2">
+                        <img src="./src/img/item_men_2.png" alt="item_men_2">
                     </div>
                     <div class="item_footer">
                         <div class="item_name">Pants forclaz</div>
@@ -81,7 +81,7 @@ export default class CreatingSortedItems {
                         </div>
                     </div>
                     <div class="item_img">
-                        <img src="./img/item_men_3.png" alt="item_men_3">
+                        <img src="./src/img/item_men_3.png" alt="item_men_3">
                     </div>
                     <div class="item_footer">
                         <div class="item_name">backpack</div>
@@ -118,7 +118,7 @@ export default class CreatingSortedItems {
                     <div class="item_colors"></div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_women_1.png" alt="item_women_1">
+                    <img src="./src/img/item_women_1.png" alt="item_women_1">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">Jacket</div>
@@ -135,7 +135,7 @@ export default class CreatingSortedItems {
                     <div class="item_colors"></div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_women_2.png" alt="item_women_2">
+                    <img src="./src/img/item_women_2.png" alt="item_women_2">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">trekking shoes</div>
@@ -154,7 +154,7 @@ export default class CreatingSortedItems {
                     </div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_women_3.png" alt="item_women_3">
+                    <img src="./src/img/item_women_3.png" alt="item_women_3">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">T-shirt</div>
@@ -191,7 +191,7 @@ export default class CreatingSortedItems {
                     <div class="item_colors"></div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_women_2.png" alt="item_women_2">
+                    <img src="./src/img/item_women_2.png" alt="item_women_2">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">shoes</div>
@@ -208,7 +208,7 @@ export default class CreatingSortedItems {
                     <div class="item_colors"></div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_men_3.png" alt="item_men_3">
+                    <img src="./src/img/item_men_3.png" alt="item_men_3">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">small bag</div>
@@ -227,7 +227,7 @@ export default class CreatingSortedItems {
                     </div>
                 </div>
                 <div class="item_img">
-                    <img src="./img/item_men_2.png" alt="item_men_2">
+                    <img src="./src/img/item_men_2.png" alt="item_men_2">
                 </div>
                 <div class="item_footer">
                     <div class="item_name">PANTS</div>
